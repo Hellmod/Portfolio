@@ -2,9 +2,8 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<link rel="stylesheet" href="style.css"></link>
-	
-	<title>Tytuł</title>  
+	<link rel="stylesheet" href="style.css"></link>	
+	<title>Portfolio</title>  
 	</meta>
 </head>
   	<?php

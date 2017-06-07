@@ -33,7 +33,10 @@ nav{
 }
 
 section{
-	 background: -moz-linear-gradient(#dddddd , white);
+	background: -moz-linear-gradient(top, #dddddd 0%, #ffffff 100%); 
+	background: -webkit-linear-gradient(top, #dddddd 0%,#ffffff 100%); 
+	background: linear-gradient(to bottom, #dddddd 0%,#ffffff 100%);
+
 }
 
 #menu{
@@ -54,3 +57,36 @@ footer{
 	background:#000000;
 	color:#ffffff;
 }
+
+#dzial_Java, #dzial_WWW, #dzial_CPP{
+	background: #feffd1;
+	text-align: center;
+	border: 1px dashed #D2D4C9;
+	display: block;
+	float:left;
+	margin-left: 25px;
+	margin-right: 25px;
+
+}
+
+#dzial_Java a,#dzial_WWW a, #dzial_CPP a{
+	color: #000000;
+	text-decoration: none;
+	padding: 15px 10px 15px 70px;
+}
+
+#dzial_Java a{
+	display: block;
+	background: url('graphics/java3.png') no-repeat 10px center;
+}
+
+#dzial_WWW a{
+	display: block;
+	background: url('graphics/www.png') no-repeat 10px center;
+}
+
+#dzial_CPP a{
+	display: block;
+	background: url('graphics/builder.png') no-repeat 10px center;
+}
+
