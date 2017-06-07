@@ -1,0 +1,56 @@
+body{	
+	background:#000000;
+}
+
+#contener{
+	min-height:300px;
+	width:680px;
+	margin: 0 auto;
+	padding-top:20px;
+	padding-bottom:20px;
+	background:#ffffff;
+}
+
+#content{
+	margin: 0 auto;
+	width:640px;
+}
+
+header{
+	background-image:url("graphics/header.jpg");
+	height:172px;
+	color:#ffffff;
+}
+
+nav{
+	background-image:url("graphics/nav.jpg");
+	height:41px;
+}
+
+#all{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+section{
+	 background: -moz-linear-gradient(#dddddd , white);
+}
+
+#menu{
+	
+	display: block;
+	padding: 10px 20px 10px 20px;
+	font-size: 15px;
+	float:left;
+}
+
+#menu a{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+}
+
+footer{
+	background:#000000;
+	color:#ffffff;
+}
