@@ -50,5 +50,6 @@ $q = fopen('dane.txt', 'a');
 	</div>
 	</footer>
 </div>
+
 </body>
 </html>
