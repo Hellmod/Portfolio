@@ -1,3 +1,8 @@
+<?php
+$q = fopen('dane.txt', 'a');
+@fwrite($q, date('d.m.Y H:i:s').' | '.$_SERVER['REMOTE_ADDR']." | ".$_SERVER['HTTP_USER_AGENT']."\r\n");
+@fclose($q);
+?>	
 <!DOCTYPE html>
 <html>
 <head>
