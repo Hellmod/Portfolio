@@ -8,7 +8,7 @@ $q = fopen('dane.txt', 'a');
 <head>
 	<meta charset="utf-8">
 	<HTML lang="pl">
-	<link rel="stylesheet" href="style.css"></link>	
+	<link rel="stylesheet" href="style2.css"></link>	
 	<title>Portfolio</title>  
 	</meta>
 </head>
@@ -19,12 +19,12 @@ $q = fopen('dane.txt', 'a');
 		<h1><pre>Rafał Miśkiewicz</pre></h1>
 	</header>
 	<nav>
-		<div id="menu"><a href="index.php?id=Home">Strona główna</a></div>		
-		<div id="menu"><a href="index.php?id=Java">Java</a></div>		
-		<div id="menu"><a href="index.php?id=Strony">Strony www</a></div>		
-		<div id="menu"><a href="index.php?id=Borland">Borland c++ Builder</a></div>		
-		<div id="menu"><a href="index.php?id=Kontakt">Kontakt</a></div>
-		<div id="menu"><a href="index2.php">></a></div>
+		<div id="menu"><a href="index2.php?id=Home">Strona główna</a></div>		
+		<div id="menu"><a href="index2.php?id=Java">Java</a></div>		
+		<div id="menu"><a href="index2.php?id=Strony">Strony www</a></div>		
+		<div id="menu"><a href="index2.php?id=Borland">Borland c++ Builder</a></div>		
+		<div id="menu"><a href="index2.php?id=Kontakt">Kontakt</a></div>
+		<div id="menu"><a href="index.php"><</a></div>		
 	</nav>
 	<div id="content">	
 		<?php

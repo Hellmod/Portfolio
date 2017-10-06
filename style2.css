@@ -3,7 +3,7 @@ body{
 }
 
 #contener{
-	width:640px;
+	width:960px;
 	margin: 0 auto;
 	background:#ffffff;
 	padding-top:20px;	
@@ -12,7 +12,7 @@ body{
 }
 
 header{
-	background-image:url("graphics/header.jpg");
+	background-image:url("graphics/header2.jpg");
 	height:172px;
 	color:#ffffff;
 	padding-left: 10px;
@@ -20,7 +20,7 @@ header{
 }
 
 nav{
-	background-image:url("graphics/nav.jpg");
+	background-image:url("graphics/nav2.jpg");
 	height:41px;
 	padding-left: 10px;
 	padding-right: 10px;
@@ -38,7 +38,7 @@ footer{
 	left:-20px;
 	background:#000000;
 	color:#ffffff;
-	width:680px;
+	width:1000px;
 	text-align: center;
 }
 

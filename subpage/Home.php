@@ -1,4 +1,4 @@
-﻿<div id="all"> 
+﻿
 <h3>Strona główna</h3>
 W tym miejscu znajduje się kilka projektów, które do tej pory realizowałem, głównie hobbystycznie. Wszystkie programy zawierają kod źródłowy i można je wykorzystywać w dowolnym celu.
 </br></br>
@@ -13,6 +13,5 @@ Projekty zostały podzielone na 3 działy:
 </br>
 Zapraszam do przeglądania oraz ponownych odwiedzin w przyszłości!
 </br></br>
-Jeśli chcesz się ze mną skontaktować, możesz pisać na adres: ...
+Jeśli chcesz się ze mną skontaktować, możesz pisać na adres: <a href="mailto:rafalmiskiewicz4@gmail.com">rafalmiskiewicz4@gmail.com</a>
 </br></br>
-</div>
